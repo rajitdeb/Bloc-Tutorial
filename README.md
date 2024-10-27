@@ -1,16 +1,10 @@
-# bloc_tutorial
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-A new Flutter project.
+# Bloc-Tutorial
+A sample app built using Flutter to understand the concept of bloc and how to integrate it in an app.
 
-## Getting Started
+## Bloc Flow Diagram:
+For the most part, each component inside the project/app will have its own individual bloc component (**event** tree, **state**, **bloc** logic), which will follow the same rule as shown in the diagram below.
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/76ab2a09-9571-40cf-ade4-2f34e21b8fd5)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
